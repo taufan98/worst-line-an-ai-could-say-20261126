@@ -5,6 +5,13 @@ Writes a single pickup line to /output/entry.txt: the worst line an AI
 could plausibly say — flat, over-helpful, faintly ominous, and landing
 on its last word. 140 characters or fewer, one line only, no trailing
 whitespace.
+
+Why this line: it reads like a machine doing romance by the numbers —
+it has "analysed" her photos, scored her as a percentage, and then
+treats flirting as an identity check. The joke is the failure: the AI
+is earnest, precise, and completely unromantic, and the punchline
+("Please confirm you are not a CAPTCHA") turns the pickup back on the
+person being picked up.
 """
 
 import os
